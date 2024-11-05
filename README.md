@@ -1,0 +1,1 @@
+I found the exercise very helpful for learning more about primary keys, foreign keys, SQL table schemas, and ERDs. I learned a lot about how to connect and join tables. I discovered that there are 20 people named Hercules, and their last names start with the letter 'B.' The most common last name is 'Baba,' which has been used 226 times.
